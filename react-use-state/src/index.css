@@ -8,3 +8,12 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+button {
+  padding: 10px;
+  font-size: 15px;
+  margin: 20px 10px;
+  color: white;
+  background-color: rgb(47, 158, 255);
+  border-radius: 5px;
+  border: none;
+}
