@@ -50,3 +50,12 @@ button.active {
   color: #000;
   background-color: #FFC107;
 }
+
+
+.card-active {
+  display: block;
+}
+
+.card-active h2 {
+  margin-bottom: 10px;
+}
