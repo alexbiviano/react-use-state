@@ -16,4 +16,13 @@ button {
   background-color: rgb(47, 158, 255);
   border-radius: 5px;
   border: none;
+  cursor: pointer;
 }
+
+.card {
+  margin: 50px 0;
+  border: 1px solid black;
+  border-radius: 15px;
+  padding: 30px;
+}
+
